@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "publish-blog",
+	"name": "Publish Blog",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Utility to automate publishing an obsidian file into my blog.",
 	"author": "Obsidian",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
