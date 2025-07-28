@@ -1,7 +1,7 @@
 {
 	"id": "publish-blog",
 	"name": "Publish Blog",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Utility to automate publishing an obsidian file into my blog.",
 	"author": "Obsidian",
